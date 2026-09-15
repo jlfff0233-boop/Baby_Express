@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 640fe331823aaea49ab8f718d33669f3, type: 3}
+  m_Name: Part_Kraken_Legs_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uD06C\uB77C\uCF04 \uB2E4\uB9AC"
+  _id: Part_Kraken_Legs_01
+  _basePrice: 70
+  _baseStockQuantity: 9
+  _baseRestockSpan: 7
+  _icon: {fileID: -479814147876550413, guid: bc176fa8774852541b36d32c74a4819d, type: 3}
+  _disc: "\uBA39\uC73C\uBA74 \uC548 \uB41C\uB2E4."
+  _craftCost: 2
+  _themes: 010000001b0000000200000014000000
+  _type: 0

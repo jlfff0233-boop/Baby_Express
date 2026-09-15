@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ff4b68a363ffd4d89f80307c533153, type: 3}
+  m_Name: Mtc_Convenience_OrderDeadlineAlert
+  m_EditorClassIdentifier: 
+  _productType: 2
+  _name: "\uB9C8\uAC10 \uC54C\uB9BC \uC7A5\uCE58"
+  _id: Mtc_Convenience_OrderDeadlineAlert
+  _basePrice: 300
+  _baseStockQuantity: 1
+  _baseRestockSpan: 0
+  _icon: {fileID: 3354701632005813230, guid: 47dfaab90f6b82f4fb3812b98dbd0c61, type: 3}
+  _disc: "\uB9C8\uAC10\uC774 \uC784\uBC15\uD55C \uC8FC\uBB38\uC744 \uAC15\uC870\uD574\uC11C
+    \uD45C\uC2DC\uD55C\uB2E4."
+  _type: 2
+  _applyType: 0
+  _levels:
+  - _upgradeCost: 0
+    _effects:
+    - _targetId: Info_OrderDeadlineAlert
+      _type: 7
+      _value: 0
+    _requirements: []

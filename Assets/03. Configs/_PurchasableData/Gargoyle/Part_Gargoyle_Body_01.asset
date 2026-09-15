@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa5da2b818860c444a4f13c5a7d06c57, type: 3}
+  m_Name: Part_Gargoyle_Body_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uAC00\uACE0\uC77C \uBC14\uB514"
+  _id: Part_Gargoyle_Body_01
+  _basePrice: 140
+  _baseStockQuantity: 4
+  _baseRestockSpan: 7
+  _icon: {fileID: 5309377851942941734, guid: bab2bc35c35bd104a83c89d58edff038, type: 3}
+  _disc: "\uBB34\uAC70\uC6CC\uC11C \uD22C\uCC99\uC6A9\uC73C\uB85C\uB294 \uBCC4\uB85C."
+  _craftCost: 2
+  _themes: 0400000012000000
+  _type: 0

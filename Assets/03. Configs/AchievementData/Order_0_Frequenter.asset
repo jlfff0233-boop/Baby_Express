@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3181453a463ed994aab3ed5b047ee8a1, type: 3}
+  m_Name: Order_0_Frequenter
+  m_EditorClassIdentifier: 
+  _id: Order_0_Frequenter
+  _category: 1
+  _displayName: "\uB2E8\uACE8\uC774 \uC0DD\uAE38 \uB9CC\uB3C4"
+  _description: "\uAE30\uB9C9\uD78C \uC19C\uC528\uC5D0 \uC190\uB2D8\uB4E4\uC774 \uAC10\uD0C4\uD558\uB2E4."
+  _isHidden: 0
+  _progressType: 3
+  _stages:
+  - _targetValue: 1
+    _displayName: 
+    _description: 
+    _rewards:
+    - _type: 1
+      _amount: 1200
+      _targetId: 
+  - _targetValue: 2
+    _displayName: "\uC790\uC2E0\uAC10\uC774 \uC0DD\uAE38 \uB9CC\uB3C4"
+    _description: "\uB354 \uB9CE\uC740 \uC8FC\uBB38!"
+    _rewards:
+    - _type: 3
+      _amount: 0
+      _targetId: Part_Tail_Long
+  - _targetValue: 3
+    _displayName: "\uC774\uB984\uC744 \uC54C\uB9B4 \uB9CC\uB3C4"
+    _description: "\uB3C8\uBC29\uC11D\uC740 \uCC29\uC88C\uAC10\uC774 \uC88B\uB2E4."
+    _rewards:
+    - _type: 1
+      _amount: 5000
+      _targetId: 

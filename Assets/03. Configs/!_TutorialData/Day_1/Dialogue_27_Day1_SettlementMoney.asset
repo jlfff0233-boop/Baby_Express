@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85071f7637aa0a244b2928e8463f19df, type: 3}
+  m_Name: Dialogue_27_Day1_SettlementMoney
+  m_EditorClassIdentifier: 
+  _id: Dialogue_27_Day1_SettlementMoney
+  _canSkip: 0
+  _lines:
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Highlight_SettlementFinalMoney
+  - _lineType: 0
+    _speakerName: Player
+    _content: "\uB9C8\uC9C0\uB9C9\uC73C\uB85C \uD604\uC7AC \uC790\uAE08\uAE4C\uC9C0
+      \uD655\uC778\uD558\uBA74 \uC624\uB298 \uC601\uC5C5\uC740 \uB05D\uC774\uB2E4."
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 

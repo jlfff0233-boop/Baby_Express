@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85071f7637aa0a244b2928e8463f19df, type: 3}
+  m_Name: Dialogue_7_Day1_AddCart
+  m_EditorClassIdentifier: 
+  _id: Dialogue_7_Day1_AddCart
+  _canSkip: 0
+  _lines:
+  - _lineType: 0
+    _speakerName: Player
+    _content: "\uD544\uC694\uD55C \uC218\uB7C9\uC744 \uC815\uD574\uC11C \uC7A5\uBC14\uAD6C\uB2C8\uC5D0
+      \uB2F4\uC744 \uC218 \uC788\uB2E4."
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Highlight_AddCart

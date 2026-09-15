@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e2dee331a0b0ca42bc8fe0fa51626a2, type: 3}
+  m_Name: DeliverySettingData
+  m_EditorClassIdentifier: 
+  _sGradeRate: 1.1
+  _aGradeRate: 0.95
+  _bGradeRate: 0.7
+  _cGradeRate: 0.4
+  _easyDifficultyRate: 1.2
+  _normalDifficultyRate: 1.3
+  _hardDifficultyRate: 1.4
+  _sGradeRewardRate: 1.5
+  _aGradeRewardRate: 1.25
+  _bGradeRewardRate: 1
+  _cGradeRewardRate: 0.7
+  _dGradeRewardRate: 0.3
+  _normalOrderRate: 1
+  _vipOrderRate: 1.5
+  _normalDeliveryRate: 1
+  _lateDeliveryRate: 0.5
+  _rewardRoundUnit: 10

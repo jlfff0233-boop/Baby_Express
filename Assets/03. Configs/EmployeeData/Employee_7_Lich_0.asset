@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869c24f0d88c6dc489ab0e20c225ac1e, type: 3}
+  m_Name: Employee_7_Lich_0
+  m_EditorClassIdentifier: 
+  _id: Employee_7_Lich_0
+  _species: 7
+  _firstName: Silas
+  _lastName: Voss
+  _displayName: "\uC0AC\uC77C\uB7EC\uC2A4 \uBCF4\uC2A4"
+  _name: 
+  _jobType: 7
+  _dialoguePortrait: {fileID: -2858330702786226967, guid: 5bb93b11ace312349b1d024c1b8e5d52, type: 3}
+  _hirePortrait: {fileID: 167042642, guid: 5bb93b11ace312349b1d024c1b8e5d52, type: 3}
+  _hireCost: 2400
+  _weeklyWage: 600
+  _unlockType: 1
+  _requiredDay: 49
+  _effectType: 7
+  _effectValue: 0.9
+  _deliverySlotIncrease: 0
+  _requiredWeeklySettlementCount: 0

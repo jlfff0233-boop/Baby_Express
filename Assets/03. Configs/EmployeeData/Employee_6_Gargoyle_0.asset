@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869c24f0d88c6dc489ab0e20c225ac1e, type: 3}
+  m_Name: Employee_6_Gargoyle_0
+  m_EditorClassIdentifier: 
+  _id: Employee_6_Gargoyle_0
+  _species: 6
+  _firstName: Edgar
+  _lastName: Flint
+  _displayName: "\uC5D0\uB4DC\uAC70 \uD50C\uB9B0\uD2B8"
+  _name: 
+  _jobType: 6
+  _dialoguePortrait: {fileID: -2990900167212558872, guid: 21714b4326d645f468021da7434992a4, type: 3}
+  _hirePortrait: {fileID: -1623552077, guid: 21714b4326d645f468021da7434992a4, type: 3}
+  _hireCost: 2200
+  _weeklyWage: 550
+  _unlockType: 1
+  _requiredDay: 42
+  _effectType: 6
+  _effectValue: 1
+  _deliverySlotIncrease: 0
+  _requiredWeeklySettlementCount: 0

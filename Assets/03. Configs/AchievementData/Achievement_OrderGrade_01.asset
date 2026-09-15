@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3181453a463ed994aab3ed5b047ee8a1, type: 3}
+  m_Name: Achievement_OrderGrade_01
+  m_EditorClassIdentifier: 
+  _id: Achievement_OrderGrade_01
+  _category: 1
+  _displayName: "\uC644\uBCBD\uC8FC\uC758"
+  _description: "S\uB4F1\uAE09 \uB0A9\uD488 \uD69F\uC218\uB97C \uCC44\uC6B4\uB2E4."
+  _isHidden: 0
+  _progressType: 4
+  _stages:
+  - _targetValue: 1
+    _displayName: "\uC644\uBCBD\uC8FC\uC758 I"
+    _description: "S\uB4F1\uAE09 \uB0A9\uD488\uC744 1\uD68C \uB2EC\uC131\uD55C\uB2E4."
+    _rewards:
+    - _type: 1
+      _amount: 200
+      _targetId: 
+  - _targetValue: 10
+    _displayName: "\uC644\uBCBD\uC8FC\uC758 II"
+    _description: "S\uB4F1\uAE09 \uB0A9\uD488\uC744 10\uD68C \uB2EC\uC131\uD55C\uB2E4."
+    _rewards: []
+  - _targetValue: 50
+    _displayName: "\uC644\uBCBD\uC8FC\uC758 III"
+    _description: "S\uB4F1\uAE09 \uB0A9\uD488\uC744 50\uD68C \uB2EC\uC131\uD55C\uB2E4."
+    _rewards:
+    - _type: 1
+      _amount: 800
+      _targetId: 

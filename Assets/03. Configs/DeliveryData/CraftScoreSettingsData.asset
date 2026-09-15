@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63e987dfe3daf324caf8ac53ceb52f12, type: 3}
+  m_Name: CraftScoreSettingsData
+  m_EditorClassIdentifier: 
+  _assemblyCompletedScore: 100
+  _requirementCompletedScore: 100
+  _requirementFailedScore: -100
+  _wishCompletedScore: 40
+  _normalThemeScore: 60
+  _completedThemeScore: 140
+  _targetThemeRate: 1.5
+  _conflictScorePenalty: 40
+  _twoThemeRate: 0.85
+  _multipleThemeRate: 0.7
+  _normalThemeLimit: 200
+  _targetThemeLimit: 250
+  _themeConflicts:
+  - _first: 2
+    _second: 3
+  - _first: 1
+    _second: 4
+  - _first: 5
+    _second: 7
+  _themeIcons:
+  - _theme: 14
+    _icon: {fileID: -7282886668606283007, guid: a4562c675f7de554eafa1b2b4f07e61a, type: 3}
+  - _theme: 15
+    _icon: {fileID: -6079965141102547391, guid: c3a529a6a2fe9a242aa84ed2a3180e18, type: 3}
+  - _theme: 16
+    _icon: {fileID: -1815935043039764464, guid: 7330fa1891d66604bba78e9514e6adbf, type: 3}
+  - _theme: 17
+    _icon: {fileID: -9122620671240450494, guid: 96cb4abd30a95fa4c9f9cadb3cf661ea, type: 3}
+  - _theme: 18
+    _icon: {fileID: -2990900167212558872, guid: 257d78fb98b570f43a1d9ebfb388bd33, type: 3}
+  - _theme: 19
+    _icon: {fileID: 1704136824156536098, guid: 8a4574d3026385044b42dbbb65f5f48c, type: 3}
+  - _theme: 20
+    _icon: {fileID: -2663931023770825618, guid: 93beaf64cf34ee943a53f2e11dc2f7a5, type: 3}
+  - _theme: 21
+    _icon: {fileID: 4943115350249443152, guid: aa23ae3db655b33488f5bb3405dccb75, type: 3}
+  - _theme: 22
+    _icon: {fileID: -5899927303015767666, guid: 8d9185f6f05e71147b8e48cb565fd04c, type: 3}
+  - _theme: 23
+    _icon: {fileID: 4315506946141470425, guid: 05fd4b6057e94654bb7975b3938e73e2, type: 3}
+  - _theme: 24
+    _icon: {fileID: -4802990570011083647, guid: 1d52d23f2747d014181b2180b465e405, type: 3}

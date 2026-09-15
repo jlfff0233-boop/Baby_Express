@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85071f7637aa0a244b2928e8463f19df, type: 3}
+  m_Name: IntroData
+  m_EditorClassIdentifier: 
+  _id: Dialogue_Intro
+  _canSkip: 1
+  _lines:
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Intro_Stork
+  - _lineType: 0
+    _speakerName: "\uD669\uC0C8 A"
+    _content: "\uC774 \uC811\uC218 \uC0C1\uC790\uB294 \uC65C \uBE44\uC5C8\uC5B4?"
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 
+  - _lineType: 0
+    _speakerName: "\uD669\uC0C8 A"
+    _content: "\uC9C0\uC625\uC740 \uC544\uBB34\uB3C4 \uC548 \uAC00\uB294 \uAC70\uC57C?"
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 
+  - _lineType: 0
+    _speakerName: "\uD669\uC0C8 B"
+    _content: "\uAC70\uAE34 \uBCF4\uD5D8\uC774 \uC548 \uB418\uC796\uC544..."
+    _portrait: {fileID: 0}
+    _portraitSide: 2
+    _signalId: 
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Intro_ArticleHeader
+  - _lineType: 0
+    _speakerName: 
+    _content: "\uC774\uC81C 900\uC138 \uC2DC\uB300 \uC9C0\uB0AC\uB2E4... 1000\uC138
+      \uC2DC\uB300 \uC9C4\uC785"
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: 
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Intro_ArticleBody
+  - _lineType: 0
+    _speakerName: 
+    _content: "\uD669\uC0C8, \uC774\uBC88 \uB144\uB3C4\uC5D0\uB3C4 \uC544\uAE30 \uBC30\uB2EC
+      \uAC70\uBD80...\n\n\uCD08\uCD08\uCD08\uCD08\uCD08\uACE0\uB839\uD654 \uC2DC\uB300
+      \uC9C4\uC785, \uC9C0\uC625\uC5D0 \uB354 \uC774\uC0C1 \uC5B4\uB9B0\uC774\uAC00
+      \uC5C6\uB2E4?!"
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: 
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Intro_SnsZoom
+  - _lineType: 0
+    _speakerName: 
+    _content: "\uC544\uC774\uB97C \uC6D0\uD558\uC2ED\uB2C8\uAE4C?"
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: 
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Intro_SnsMoveRight
+  - _lineType: 0
+    _speakerName: 
+    _content: "100% \uC21C\uC218 \uAD6D\uB0B4\uC0B0 \uC7AC\uB8CC \uC0AC\uC6A9!"
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: 
+  - _lineType: 0
+    _speakerName: 
+    _content: "\uBBFF\uACE0 \uD0A4\uC6B8 \uC218 \uC788\uB294 \uB054\uCC0D\uD55C \uC544\uAE30
+      \uD310\uB9E4\uD569\uB2C8\uB2E4!"
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: 
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Intro_SnsFinal
+  - _lineType: 0
+    _speakerName: 
+    _content: "\uC544\uC774\uAC00 \uB178\uC778\uACF5\uACBD\uD560\uAE4C \uB450\uB824\uC6C0\uC5D0
+      \uB5A8\uC9C0 \uB9C8\uC138\uC694!"
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: 
+  - _lineType: 0
+    _speakerName: 
+    _content: "\uC9C0\uAE08 \uB2F9\uC7A5 DM >>"
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: 

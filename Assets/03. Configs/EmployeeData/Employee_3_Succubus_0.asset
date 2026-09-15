@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869c24f0d88c6dc489ab0e20c225ac1e, type: 3}
+  m_Name: Employee_3_Succubus_0
+  m_EditorClassIdentifier: 
+  _id: Employee_3_Succubus_0
+  _species: 3
+  _firstName: Lanina
+  _lastName: Moretti
+  _displayName: "\uB77C\uB2C8\uB098 \uBAA8\uB808\uD2F0"
+  _name: 
+  _jobType: 3
+  _dialoguePortrait: {fileID: -7916881772379570058, guid: c0a56931a13974f4e91ba786e06105b8, type: 3}
+  _hirePortrait: {fileID: -611099583, guid: c0a56931a13974f4e91ba786e06105b8, type: 3}
+  _hireCost: 1400
+  _weeklyWage: 400
+  _unlockType: 1
+  _requiredDay: 21
+  _effectType: 3
+  _effectValue: 1
+  _deliverySlotIncrease: 0
+  _requiredWeeklySettlementCount: 0

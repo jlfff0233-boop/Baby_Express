@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068bed5b1fc73db4fb1a15f539953835, type: 3}
+  m_Name: WeeklySettlementSettingData
+  m_EditorClassIdentifier: 
+  _minimumOrderCount: 7
+  _sGradeScore: 100
+  _aGradeScore: 85
+  _bGradeScore: 70
+  _cGradeScore: 45
+  _dGradeScore: 20
+  _lateDeliveryRate: 0.7
+  _rejectedScore: 35
+  _autoRejectedScore: 25
+  _cancelledScore: 10
+  _failedScore: 0
+  _ratingSettings:
+  - _rating: 5
+    _minimumScore: 0
+    _orderCountCorrection: -1
+    _easyWeight: 9
+    _normalWeight: 3
+    _hardWeight: 0
+  - _rating: 4
+    _minimumScore: 40
+    _orderCountCorrection: -1
+    _easyWeight: 8
+    _normalWeight: 4
+    _hardWeight: 1
+  - _rating: 3
+    _minimumScore: 60
+    _orderCountCorrection: 0
+    _easyWeight: 7
+    _normalWeight: 4
+    _hardWeight: 2
+  - _rating: 2
+    _minimumScore: 75
+    _orderCountCorrection: 0
+    _easyWeight: 6
+    _normalWeight: 5
+    _hardWeight: 2
+  - _rating: 1
+    _minimumScore: 90
+    _orderCountCorrection: 1
+    _easyWeight: 5
+    _normalWeight: 5
+    _hardWeight: 3

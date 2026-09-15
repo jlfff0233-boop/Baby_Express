@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e66d492e835d8b4087a3a358c2affb4, type: 3}
+  m_Name: Part_Bicorn_Horns_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uBC14\uC774\uCF58 \uBFD4"
+  _id: Part_Bicorn_Horns_01
+  _basePrice: 130
+  _baseStockQuantity: 4
+  _baseRestockSpan: 7
+  _icon: {fileID: 5602442737793755670, guid: 31868dd6f45301544b9fef2c39600286, type: 3}
+  _disc: "\uC791\uACE0 \uADC0\uC5EC\uC6CC~"
+  _craftCost: 3
+  _themes: 1a0000000400000011000000
+  _type: 0

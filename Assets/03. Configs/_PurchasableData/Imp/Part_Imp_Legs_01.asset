@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 640fe331823aaea49ab8f718d33669f3, type: 3}
+  m_Name: Part_Imp_Legs_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uC784\uD504 \uB2E4\uB9AC"
+  _id: Part_Imp_Legs_01
+  _basePrice: 60
+  _baseStockQuantity: 8
+  _baseRestockSpan: 7
+  _icon: {fileID: 4281078667929083742, guid: 30ec37899ba04254b95b42eccbea9cbc, type: 3}
+  _disc: "\uD0C4\uD0C4\uD558\uACE0 \uD798 \uC788\uB294 \uB2E4\uB9AC\uB2E4."
+  _craftCost: 1
+  _themes: 13000000
+  _type: 0

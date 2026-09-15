@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3181453a463ed994aab3ed5b047ee8a1, type: 3}
+  m_Name: Achievement_NetProfit_01
+  m_EditorClassIdentifier: 
+  _id: Achievement_NetProfit_01
+  _category: 0
+  _displayName: "\uB3C8\uC774 \uB3C8\uC744 \uBC88\uB2E4"
+  _description: "\uB204\uC801 \uC21C\uC774\uC775\uC744 \uCC44\uC6B4\uB2E4."
+  _isHidden: 0
+  _progressType: 9
+  _stages:
+  - _targetValue: 10000
+    _displayName: "\uB3C8\uC774 \uB3C8\uC744 \uBC88\uB2E4 I"
+    _description: "\uB204\uC801 \uC21C\uC774\uC775 10,000G\uB97C \uB2EC\uC131\uD55C\uB2E4."
+    _rewards:
+    - _type: 1
+      _amount: 300
+      _targetId: 
+  - _targetValue: 50000
+    _displayName: "\uB3C8\uC774 \uB3C8\uC744 \uBC88\uB2E4 II"
+    _description: "\uB204\uC801 \uC21C\uC774\uC775 50,000G\uB97C \uB2EC\uC131\uD55C\uB2E4."
+    _rewards:
+    - _type: 1
+      _amount: 500
+      _targetId: 
+  - _targetValue: 200000
+    _displayName: "\uB3C8\uC774 \uB3C8\uC744 \uBC88\uB2E4 III"
+    _description: "\uB204\uC801 \uC21C\uC774\uC775 200,000G\uB97C \uB2EC\uC131\uD55C\uB2E4."
+    _rewards:
+    - _type: 1
+      _amount: 800
+      _targetId: 

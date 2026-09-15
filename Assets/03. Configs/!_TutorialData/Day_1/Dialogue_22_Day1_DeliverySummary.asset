@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85071f7637aa0a244b2928e8463f19df, type: 3}
+  m_Name: Dialogue_22_Day1_DeliverySummary
+  m_EditorClassIdentifier: 
+  _id: Dialogue_22_Day1_DeliverySummary
+  _canSkip: 0
+  _lines:
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Highlight_DeliverySummary
+  - _lineType: 0
+    _speakerName: Player
+    _content: "\uCD9C\uBC1C\uD558\uAE30 \uC804\uC5D0 \uC608\uC0C1 \uB3C4\uCC29\uC77C\uACFC
+      \uB0A9\uD488 \uACB0\uACFC, \uC608\uC0C1 \uBCF4\uC0C1\uC744 \uD655\uC778\uD560
+      \uC218 \uC788\uB2E4."
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 

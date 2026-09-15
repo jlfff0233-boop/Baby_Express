@@ -1,0 +1,7 @@
+직무	한글명	영문명
+듀라한 배송 담당	니브 도일	Niamh Doyle
+임프 심부름꾼	메벨 브룩	Mabel Brook
+고블린 재고 담당	클로드 모로	Claude Moreau
+서큐버스 에이전트	라니나 모레티	Lanina Moretti
+그렘린 엔지니어	몬티 윌크스	Monty Wilkes
+마녀 연구원	아그네 바이스	Agne Weiss

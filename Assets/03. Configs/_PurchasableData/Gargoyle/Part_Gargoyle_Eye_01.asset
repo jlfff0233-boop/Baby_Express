@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2e432b2ca9c63408039dcc3895aaf0, type: 3}
+  m_Name: Part_Gargoyle_Eye_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uAC00\uACE0\uC77C \uB208"
+  _id: Part_Gargoyle_Eye_01
+  _basePrice: 80
+  _baseStockQuantity: 8
+  _baseRestockSpan: 7
+  _icon: {fileID: 6401395699840783955, guid: 550645c702d54ce40abbd57fec9a5fca, type: 3}
+  _disc: "\uB2E8\uB2E8\uD55C \uB208\uC54C\uC774\uB77C\uB2C8..."
+  _craftCost: 2
+  _themes: 0400000012000000
+  _type: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e8e0dcd7cd44c43aec9041a4041596, type: 3}
+  m_Name: Part_Werewolf_Mouth_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uC6E8\uC5B4\uC6B8\uD504 \uC785"
+  _id: Part_Werewolf_Mouth_01
+  _basePrice: 70
+  _baseStockQuantity: 7
+  _baseRestockSpan: 7
+  _icon: {fileID: -1738530476411449383, guid: ff8da0c3316216e4b97b61253bfcdc41, type: 3}
+  _disc: "\uBB3C\uC9C0\uB294 \uC54A\uC744 \uAC83 \uAC19\uB2E4. \uC544\uB9C8\uB3C4."
+  _craftCost: 1
+  _themes: 1a0000000f000000
+  _type: 0

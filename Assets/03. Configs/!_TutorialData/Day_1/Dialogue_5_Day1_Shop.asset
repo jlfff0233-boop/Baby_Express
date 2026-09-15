@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85071f7637aa0a244b2928e8463f19df, type: 3}
+  m_Name: Dialogue_5_Day1_Shop
+  m_EditorClassIdentifier: 
+  _id: Dialogue_5_Day1_Shop
+  _canSkip: 0
+  _lines:
+  - _lineType: 0
+    _speakerName: Player
+    _content: "\uC81C\uC791\uD558\uB824\uBA74 \uBA3C\uC800 \uD30C\uCE20\uAC00 \uD544\uC694\uD558\uB2E4.
+      \uC0C1\uC810\uC5D0\uC11C \uD544\uC694\uD55C \uAC78 \uC0AC\uC790."
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Highlight_ShopButton

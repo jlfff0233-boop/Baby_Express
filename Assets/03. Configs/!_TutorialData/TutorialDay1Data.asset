@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 466533ca0d1773f469ad967327e56584, type: 3}
+  m_Name: TutorialDay1Data
+  m_EditorClassIdentifier: 
+  _orderId: Order_0_Tutorial_Day1
+  _title: "\uCCAB \uC8FC\uBB38! \uC0AC\uB791\uC2A4\uB7EC\uC6B4 \uC544\uAE30 \uC545\uB9C8
+    \uBD80\uD0C1"
+  _difficulty: 0
+  _acceptDays: 1
+  _deliveryDays: 2
+  _delayDays: 0
+  _maxCraftCost: 8
+  _specialType: 0
+  _actualTravelDays: 0
+  _craftLimit: 1
+  _conditions:
+  - _conditionType: 0
+    _partId: Part_Slime_Eye_01
+    _quantity: 1
+  - _conditionType: 1
+    _partId: Part_Imp_Mouth_01
+    _quantity: 1
+  _purchaseGuides:
+  - _sequence: 0
+    _partId: Part_Slime_Eye_01
+    _requiredForProgress: 1
+    _note: "\uC8FC\uC694 \uC694\uAD6C"
+  - _sequence: 1
+    _partId: Part_Mushroom_Body_01
+    _requiredForProgress: 1
+    _note: "\uCD5C\uC18C \uC81C\uC791 \uC870\uAC74 Body"
+  - _sequence: 2
+    _partId: Part_Imp_Nose_01
+    _requiredForProgress: 1
+    _note: "\uCD5C\uC18C \uC81C\uC791 \uC870\uAC74 Nose"
+  - _sequence: 3
+    _partId: Part_Mushroom_Mouth_01
+    _requiredForProgress: 1
+    _note: "\uCD5C\uC18C \uC81C\uC791 \uC870\uAC74 Mouth"
+  - _sequence: 4
+    _partId: Part_Imp_Mouth_01
+    _requiredForProgress: 0
+    _note: "\uC120\uD0DD Wish; \uC9C4\uD589 \uCC28\uB2E8 \uAE08\uC9C0"
+  _dialogues:
+  - {fileID: 11400000, guid: 917ae6895f2ac814686a592f44a8b0a8, type: 2}
+  - {fileID: 11400000, guid: 9fb4176596d54ee49805255a6b6eecf3, type: 2}
+  - {fileID: 11400000, guid: 9f83cb116ca74b04fb84d282149733ca, type: 2}
+  - {fileID: 11400000, guid: db2765145c177424b9e19bc3e00ecf27, type: 2}
+  - {fileID: 11400000, guid: 0b675b2f0a0c4f54fb9792b778a730ac, type: 2}
+  - {fileID: 11400000, guid: 1ce8cde8413b22f4fb28f18840382d33, type: 2}
+  - {fileID: 11400000, guid: 6c1d41b841b5152439cd31a31f072333, type: 2}
+  - {fileID: 11400000, guid: 0bfc4ead61001244e9e5f0feef6dc33a, type: 2}
+  - {fileID: 11400000, guid: b85fafd91f6773e4f8dc554e2acaa757, type: 2}
+  - {fileID: 11400000, guid: 37b626f2622ea144f880bddb69c867fe, type: 2}
+  - {fileID: 11400000, guid: 8ab90c62c0b90314ead9d127ef616b77, type: 2}
+  - {fileID: 11400000, guid: d9e4318713aad0d40a8aec474b414a9e, type: 2}
+  - {fileID: 11400000, guid: a17d2d9e9d48a4b41b073cfcfa85e433, type: 2}
+  - {fileID: 11400000, guid: 87ef0c0364380e247b66ee98fdccde59, type: 2}
+  - {fileID: 11400000, guid: 6bdf269cb527be044b24a80db1a51964, type: 2}
+  - {fileID: 11400000, guid: eae47427a88a21f488b21303b3e26588, type: 2}
+  - {fileID: 11400000, guid: b86505f23bf0e4d49ad1535451340c93, type: 2}
+  - {fileID: 11400000, guid: 248036157a94a65408fdc5fb21103275, type: 2}
+  - {fileID: 11400000, guid: 1cf1653c4b308f54d9919ba221c8f15e, type: 2}
+  - {fileID: 11400000, guid: e90c0b6caf5aaab41a8939ee045d164c, type: 2}
+  - {fileID: 11400000, guid: 430d1730268d48746b4a61276bf069ca, type: 2}
+  - {fileID: 11400000, guid: 0fae8272e822f7f4ca571324dfbf82b3, type: 2}
+  - {fileID: 11400000, guid: b58cd963553b8244f9d605ef45eece60, type: 2}
+  - {fileID: 11400000, guid: 564941d45a7dd184a963e451e81c188a, type: 2}
+  - {fileID: 11400000, guid: 187f279b4079da842bbc3b12cf71cfd4, type: 2}
+  - {fileID: 11400000, guid: 33a289897c4a4b344b266bcd50ce293d, type: 2}
+  - {fileID: 11400000, guid: dab766aa2727ee948a3cf4c0dc9a4267, type: 2}
+  - {fileID: 11400000, guid: d640673619a2c07429bc0fc313bcc90a, type: 2}
+  - {fileID: 11400000, guid: 73a30a3b640c7304d846cc0e39a5fbe6, type: 2}

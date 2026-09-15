@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4add69532b1f5ad458d6b0c376205269, type: 3}
+  m_Name: SettlementIconData
+  m_EditorClassIdentifier: 
+  _icons:
+  - _iconType: 1
+    _sprite: {fileID: -3621853112310112611, guid: 350c5a32dd012a148aa7d1cd15fc91c5, type: 3}
+  - _iconType: 2
+    _sprite: {fileID: 4258457726574909587, guid: 6bbb5134d8f6de545b96ff537f0ca170, type: 3}
+  - _iconType: 3
+    _sprite: {fileID: 3774397007945037404, guid: 01897e44691c6354faef76eeefa2c8df, type: 3}
+  - _iconType: 4
+    _sprite: {fileID: -7119793621955489693, guid: ed97174b5f2b8db40b5be5ce04c0a78b, type: 3}
+  - _iconType: 5
+    _sprite: {fileID: 2136772916483425814, guid: 197311b76719de4469528fc9af5fd2d5, type: 3}
+  - _iconType: 6
+    _sprite: {fileID: -5018221243301053429, guid: 6b65a0f70429df142adc391ad24e26fc, type: 3}
+  - _iconType: 7
+    _sprite: {fileID: -2256961428125844799, guid: b3014bfeaecc8454a825a93a33f91a63, type: 3}
+  - _iconType: 8
+    _sprite: {fileID: -4317229631847847420, guid: 18bf27eaa71a62647ae2ba7fba53ec76, type: 3}
+  - _iconType: 9
+    _sprite: {fileID: -5218973001454019095, guid: d4f65bec7ec4aec49b355b02b8a7151b, type: 3}
+  - _iconType: 10
+    _sprite: {fileID: -8569153232678196769, guid: 9769f45e7b819324da38ad86beacc787, type: 3}
+  - _iconType: 11
+    _sprite: {fileID: 3729997497715551305, guid: c065bf245e7284f44ad762f7d3c0f19a, type: 3}
+  - _iconType: 12
+    _sprite: {fileID: -8304814075146568563, guid: 04ccf12d6da114048b51c70b0d0e1802, type: 3}
+  - _iconType: 13
+    _sprite: {fileID: -1303293784076103515, guid: 617926c689409374bbcaa4180180191c, type: 3}
+  - _iconType: 14
+    _sprite: {fileID: 8230548353929521623, guid: 00b821c9f59f4da409f73afd35269293, type: 3}
+  - _iconType: 15
+    _sprite: {fileID: 7579905457422638285, guid: fc56df6aa5d1cfe46a6f8e38c66b50ec, type: 3}
+  - _iconType: 16
+    _sprite: {fileID: -5225484437844051859, guid: e7cb16f16609c3f4bbce8570060722bf, type: 3}
+  - _iconType: 17
+    _sprite: {fileID: 8953295965991780089, guid: c0121be5102f5b141a0b3334c2449f37, type: 3}

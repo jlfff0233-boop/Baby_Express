@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ff4b68a363ffd4d89f80307c533153, type: 3}
+  m_Name: Mtc_Convenience_MissingPartsDisplay
+  m_EditorClassIdentifier: 
+  _productType: 2
+  _name: "\uD30C\uCE20 \uC7AC\uACE0 \uBD84\uC11D\uAE30"
+  _id: Mtc_Convenience_MissingPartsDisplay
+  _basePrice: 500
+  _baseStockQuantity: 1
+  _baseRestockSpan: 0
+  _icon: {fileID: -6576723272936252315, guid: 47dfaab90f6b82f4fb3812b98dbd0c61, type: 3}
+  _disc: "\uC8FC\uBB38\uC5D0 \uD544\uC694\uD55C \uBD80\uC871 \uD30C\uCE20 \uC218\uB7C9\uC744
+    \uD45C\uC2DC\uD55C\uB2E4."
+  _type: 2
+  _applyType: 0
+  _levels:
+  - _upgradeCost: 0
+    _effects:
+    - _targetId: Info_MissingPartsDisplay
+      _type: 7
+      _value: 0
+    _requirements: []

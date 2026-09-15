@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e8e0dcd7cd44c43aec9041a4041596, type: 3}
+  m_Name: Part_Goat_Mouth_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uBC14\uD3EC\uBA54\uD2B8 \uC785"
+  _id: Part_Goat_Mouth_01
+  _basePrice: 60
+  _baseStockQuantity: 7
+  _baseRestockSpan: 7
+  _icon: {fileID: 8826133812860694961, guid: 1c8bccfe71fd5cf40aa1f79f70d05ec2, type: 3}
+  _disc: "\uC791\uACE0 \uBB34\uB69D\uB69D\uD55C \uC785\uC774\uB2E4."
+  _craftCost: 1
+  _themes: 18000000
+  _type: 0

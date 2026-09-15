@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::UIStyleBatchSettings
+  _buttonStyles:
+  - _styleName: "\uD30C\uB780 \uBC84\uD2BC"
+    _sourceSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    _nameKeyword: 
+    _normalSprite: {fileID: 3617037607244381422, guid: d8b3799aa4dd51d48abb8d8c92840887, type: 3}
+    _highlightedSprite: {fileID: -7221939324224623808, guid: 432809ea850d75945a2ec76120deadb4, type: 3}
+    _pressedSprite: {fileID: -5936133784446304726, guid: b289b70c38cf417418fc2e1544aa83c5, type: 3}
+    _selectedSprite: {fileID: -7221939324224623808, guid: 432809ea850d75945a2ec76120deadb4, type: 3}
+    _disabledSprite: {fileID: -2032966420650848425, guid: a415f802492077247bad880b4c723184, type: 3}
+    _setSize: 1
+    _size: {x: 200, y: 80}
+    _setPixelsPerUnitMultiplier: 1
+    _pixelsPerUnitMultiplier: 3
+  - _styleName: "\uD558\uC580 \uBC84\uD2BC"
+    _sourceSprite: {fileID: 3617037607244381422, guid: d8b3799aa4dd51d48abb8d8c92840887, type: 3}
+    _nameKeyword: 
+    _normalSprite: {fileID: -1512072189923043543, guid: ab333816c2215b945a7a333579a9f422, type: 3}
+    _highlightedSprite: {fileID: 7982165431767496565, guid: 504c96c6628f22840b9551a100a82bcf, type: 3}
+    _pressedSprite: {fileID: 6107873668820913448, guid: 4ae2b95ee29db094fa9dab6048bc50ed, type: 3}
+    _selectedSprite: {fileID: 7982165431767496565, guid: 504c96c6628f22840b9551a100a82bcf, type: 3}
+    _disabledSprite: {fileID: 5322542522577759340, guid: 8426e9f01c6bbbe4db4f0af168f99d62, type: 3}
+    _setSize: 1
+    _size: {x: 200, y: 80}
+    _setPixelsPerUnitMultiplier: 1
+    _pixelsPerUnitMultiplier: 3
+  _imageRules:
+  - _ruleName: "\uD328\uB110"
+    _sourceSprite: {fileID: 0}
+    _targetSprite: {fileID: -1955448553306655712, guid: 8de26a859049a024392f79a6dde99759, type: 3}
+    _setSliced: 1
+  _fontRules:
+  - _ruleName: 
+    _sourceFont: {fileID: 11400000, guid: 0ff7b8f0f0ce7c240b08546eb89ab075, type: 2}
+    _targetFont: {fileID: 11400000, guid: 49cc56470a7942b4e96a51cb21223023, type: 2}

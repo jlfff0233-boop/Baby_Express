@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25070c151d0fc184eaa1d1b2d4350039, type: 3}
+  m_Name: Part_Mushroom_Arms_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uD391\uAC70\uC2A4 \uD314"
+  _id: Part_Mushroom_Arms_01
+  _basePrice: 50
+  _baseStockQuantity: 8
+  _baseRestockSpan: 7
+  _icon: {fileID: -5223568964488006515, guid: 8385b8d2cd061054ea1831e25a721734, type: 3}
+  _disc: "\uC9E7\uACE0 \uD1B5\uD1B5\uD574\uC11C \uBCC4 \uB3C4\uC6C0\uC740 \uC548
+    \uB41C\uB2E4."
+  _craftCost: 1
+  _themes: 020000000100000017000000
+  _type: 0

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ff4b68a363ffd4d89f80307c533153, type: 3}
+  m_Name: Mtc_Facility_InventoryCapacity
+  m_EditorClassIdentifier: 
+  _productType: 3
+  _name: "\uC778\uBCA4\uD1A0\uB9AC \uC6A9\uB7C9 \uC99D\uAC00"
+  _id: Mtc_Facility_InventoryCapacity
+  _basePrice: 400
+  _baseStockQuantity: 1
+  _baseRestockSpan: 0
+  _icon: {fileID: 6781114943419454489, guid: dfd082eb4f890b74c8cad7e2b99a1f42, type: 3}
+  _disc: "\uC778\uBCA4\uD1A0\uB9AC \uACF5\uAC04\uC774 \uB298\uC5B4\uB09C\uB2E4."
+  _type: 0
+  _applyType: 0
+  _levels:
+  - _upgradeCost: 0
+    _effects:
+    - _targetId: 
+      _type: 0
+      _value: 75
+    _requirements: []
+  - _upgradeCost: 800
+    _effects:
+    - _targetId: 
+      _type: 0
+      _value: 100
+    _requirements:
+    - _type: 0
+      _requiredValue: 7
+      _requiredRating: 0
+      _requiredMaintenanceId: 
+      _requiredLevel: 0
+  - _upgradeCost: 1300
+    _effects:
+    - _targetId: 
+      _type: 0
+      _value: 125
+    _requirements:
+    - _type: 0
+      _requiredValue: 14
+      _requiredRating: 0
+      _requiredMaintenanceId: 
+      _requiredLevel: 0
+  - _upgradeCost: 2000
+    _effects:
+    - _targetId: 
+      _type: 0
+      _value: 150
+    _requirements:
+    - _type: 0
+      _requiredValue: 28
+      _requiredRating: 0
+      _requiredMaintenanceId: 
+      _requiredLevel: 0

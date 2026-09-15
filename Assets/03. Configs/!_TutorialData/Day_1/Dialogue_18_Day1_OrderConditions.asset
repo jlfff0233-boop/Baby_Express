@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85071f7637aa0a244b2928e8463f19df, type: 3}
+  m_Name: Dialogue_18_Day1_OrderConditions
+  m_EditorClassIdentifier: 
+  _id: Dialogue_18_Day1_OrderConditions
+  _canSkip: 0
+  _lines:
+  - _lineType: 1
+    _speakerName: 
+    _content: 
+    _portrait: {fileID: 0}
+    _portraitSide: 0
+    _signalId: Highlight_OrderConditions
+  - _lineType: 0
+    _speakerName: Player
+    _content: "\uC8FC\uC694 \uC694\uAD6C \uC0AC\uD56D\uACFC \uD76C\uB9DD \uC0AC\uD56D\uC774
+      \uC5BC\uB9C8\uB098 \uCDA9\uC871\uB410\uB294\uC9C0\uB3C4 \uC5EC\uAE30\uC11C
+      \uD655\uC778\uD560 \uC218 \uC788\uB2E4."
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 
+  - _lineType: 0
+    _speakerName: Player
+    _content: "\uC0AC\uC6A9\uD55C \uD30C\uCE20 \uC0C1\uC138\uB3C4 \uBCFC \uC218 \uC788\uB2E4."
+    _portrait: {fileID: 0}
+    _portraitSide: 1
+    _signalId: 

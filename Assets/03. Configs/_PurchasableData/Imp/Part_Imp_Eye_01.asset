@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2e432b2ca9c63408039dcc3895aaf0, type: 3}
+  m_Name: Part_Imp_Eye_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uC784\uD504 \uB208"
+  _id: Part_Imp_Eye_01
+  _basePrice: 70
+  _baseStockQuantity: 8
+  _baseRestockSpan: 7
+  _icon: {fileID: -2733475438814579233, guid: d58dd730275fc6a47b9c410273a634dd, type: 3}
+  _disc: "\uBB54\uAC00 \uC0AC\uACE0 \uCE60 \uC0DD\uAC01\uC744 \uD558\uB294 \uB208\uC774\uB2E4."
+  _craftCost: 1
+  _themes: 13000000
+  _type: 0

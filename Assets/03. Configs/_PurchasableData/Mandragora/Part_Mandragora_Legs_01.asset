@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 640fe331823aaea49ab8f718d33669f3, type: 3}
+  m_Name: Part_Mandragora_Legs_01
+  m_EditorClassIdentifier: 
+  _productType: 0
+  _name: "\uB9CC\uB4DC\uB77C\uACE0\uB77C \uB2E4\uB9AC"
+  _id: Part_Mandragora_Legs_01
+  _basePrice: 50
+  _baseStockQuantity: 8
+  _baseRestockSpan: 7
+  _icon: {fileID: -5547888008257580820, guid: a3a8db0a58ca31d45bdff4ee53c55635, type: 3}
+  _disc: "\uAC70\uCE60\uACE0 \uB2E8\uB2E8\uD55C \uBFCC\uB9AC\uB2E4."
+  _craftCost: 1
+  _themes: 0400000015000000
+  _type: 0

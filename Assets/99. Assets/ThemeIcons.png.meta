@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 270c6a6d36fe96743a297c69cb6dca27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -924767818140024430
+    second: ThemeIcons_0
+  - first:
+      213: -1600315318761767872
+    second: ThemeIcons_1
+  - first:
+      213: -4187571237300960763
+    second: ThemeIcons_2
+  - first:
+      213: -5876114333575289063
+    second: ThemeIcons_3
+  - first:
+      213: 7075609658336516125
+    second: ThemeIcons_4
+  - first:
+      213: -4901506915963241864
+    second: ThemeIcons_5
+  - first:
+      213: -2967887311988985224
+    second: ThemeIcons_6
+  - first:
+      213: 95323914917953425
+    second: ThemeIcons_7
+  - first:
+      213: -3824896951801470345
+    second: ThemeIcons_8
+  - first:
+      213: -1639462080009534064
+    second: ThemeIcons_9
+  - first:
+      213: 1046488862698791455
+    second: ThemeIcons_10
+  - first:
+      213: -7555213552127817388
+    second: ThemeIcons_11
+  - first:
+      213: 3726049136066761035
+    second: ThemeIcons_12
+  - first:
+      213: -4052902224788537725
+    second: ThemeIcons_13
+  - first:
+      213: 7102585681177524847
+    second: ThemeIcons_14
+  - first:
+      213: 3903624394816360967
+    second: ThemeIcons_15
+  - first:
+      213: -167976941216175722
+    second: ThemeIcons_16
+  - first:
+      213: 562782424705064466
+    second: ThemeIcons_17
+  - first:
+      213: 3395690089363194040
+    second: ThemeIcons_18
+  - first:
+      213: -8149500900762746682
+    second: ThemeIcons_19
+  - first:
+      213: -2985454548845128940
+    second: ThemeIcons_20
+  - first:
+      213: 5584856311402809625
+    second: ThemeIcons_21
+  - first:
+      213: -1819553628166599920
+    second: ThemeIcons_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThemeIcons_1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 641
+        width: 332
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb69842b98ac9e0800000000000000
+      internalID: -1600315318761767872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeIcons_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 645
+        width: 275
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50288097522c2e5c0800000000000000
+      internalID: -4187571237300960763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeIcons_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 638
+        width: 261
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18987efe7d913260800000000000000
+      internalID: 7075609658336516125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeIcons_5
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 642
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af3e1ed695afbb0800000000000000
+      internalID: -4901506915963241864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeIcons_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 315
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4119e2a2f595b330800000000000000
+      internalID: 3726049136066761035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeIcons_17
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 188
+        width: 365
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ed06e22a76fc700800000000000000
+      internalID: 562782424705064466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeIcons_21
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 191
+        width: 321
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91943c2b935618d40800000000000000
+      internalID: 5584856311402809625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1c8fc4a39196fe44f88db131151e4db2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThemeIcons_0: -924767818140024430
+      ThemeIcons_1: -1600315318761767872
+      ThemeIcons_10: 1046488862698791455
+      ThemeIcons_11: -7555213552127817388
+      ThemeIcons_12: 3726049136066761035
+      ThemeIcons_13: -4052902224788537725
+      ThemeIcons_14: 7102585681177524847
+      ThemeIcons_15: 3903624394816360967
+      ThemeIcons_16: -167976941216175722
+      ThemeIcons_17: 562782424705064466
+      ThemeIcons_18: 3395690089363194040
+      ThemeIcons_19: -8149500900762746682
+      ThemeIcons_2: -4187571237300960763
+      ThemeIcons_20: -2985454548845128940
+      ThemeIcons_21: 5584856311402809625
+      ThemeIcons_22: -1819553628166599920
+      ThemeIcons_3: -5876114333575289063
+      ThemeIcons_4: 7075609658336516125
+      ThemeIcons_5: -4901506915963241864
+      ThemeIcons_6: -2967887311988985224
+      ThemeIcons_7: 95323914917953425
+      ThemeIcons_8: -3824896951801470345
+      ThemeIcons_9: -1639462080009534064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

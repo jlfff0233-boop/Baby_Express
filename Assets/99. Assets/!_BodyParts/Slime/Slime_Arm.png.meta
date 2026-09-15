@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 14be5f6723506544d8f2ed425c1f688d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 638246090843643701
+    second: Slime_Arm_0
+  - first:
+      213: -5206986966751721265
+    second: Slime_Arm_1
+  - first:
+      213: 5208322406706741843
+    second: Slime_Arm_2
+  - first:
+      213: 603353839405847672
+    second: Slime_Arm_3
+  - first:
+      213: 599720784662847962
+    second: Slime_Arm_4
+  - first:
+      213: 911568420490121168
+    second: Slime_Arm_5
+  - first:
+      213: -1130425036154404129
+    second: Slime_Arm_6
+  - first:
+      213: 447018558617849006
+    second: Slime_Arm_7
+  - first:
+      213: -6357550146118058972
+    second: Slime_Arm_8
+  - first:
+      213: 547185300584814342
+    second: Slime_Arm_9
+  - first:
+      213: -5685085953072971534
+    second: Slime_Arm_10
+  - first:
+      213: -1676653866148761538
+    second: Slime_Arm_11
+  - first:
+      213: -483319071671994001
+    second: Slime_Arm_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_Arm_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 49
+        width: 1164
+        height: 929
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352867f42ada74840800000000000000
+      internalID: 5208322406706741843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a4ce7171eafda44999dd3ac1904ab51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slime_Arm_0: 638246090843643701
+      Slime_Arm_1: -5206986966751721265
+      Slime_Arm_10: -5685085953072971534
+      Slime_Arm_11: -1676653866148761538
+      Slime_Arm_12: -483319071671994001
+      Slime_Arm_2: 5208322406706741843
+      Slime_Arm_3: 603353839405847672
+      Slime_Arm_4: 599720784662847962
+      Slime_Arm_5: 911568420490121168
+      Slime_Arm_6: -1130425036154404129
+      Slime_Arm_7: 447018558617849006
+      Slime_Arm_8: -6357550146118058972
+      Slime_Arm_9: 547185300584814342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
